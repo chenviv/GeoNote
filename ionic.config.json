@@ -1,0 +1,7 @@
+{
+  "name": "GeoNote",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
